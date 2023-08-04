@@ -1,4 +1,5 @@
-![logo](https://static.packt-cdn.com/products/9781838648121/graphics/assets/9a5e3a54-0f0e-42a2-ab09-3ab748173cfe.png)
+![logo](https://github.com/sana313/sana313/assets/104419437/f3892ced-f765-43cf-87c2-78f359189ade)
+
 <h1 align="center">Hi 👋, I'm Sana Nawaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
